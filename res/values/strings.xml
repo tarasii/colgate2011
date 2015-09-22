@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="hello">обеспечивает отменное здоровье полости рта, </string>
+    <string name="app_name">Colgate®</string>
+<string name="p1_start">Начать тестирование</string>
+    <string name="p2_q1">Вопрос 1. Какие проблемы ротовой полости беспокоят Вас больше всего?
+</string>
+    <string name="p2_sbm">Подтвердить</string>
+    <string name="p2_clr">Очистить </string>
+    <string name="p2_w1">Кариес</string>
+    <string name="p2_w2">Зубной камень
+</string>
+    <string name="p2_w3">Чувствительные зубы</string>
+    <string name="p2_w4">Неприятный запах изо рта</string>
+    <string name="p2_w5">Потемнения (пятна) на зубах</string>
+    <string name="p2_w6">Кровоточивость (воспаление) десен</string>
+    <string name="p2_w7">Ничего из вышеперечисленного </string>
+    <string name="p1_colgate">Colgate® Total 12  </string>
+    <string name="p1_str2">даже ВАШ СТОМАТОЛОГ ЗАМЕТИТ ЭТО!!</string>
+    <string name="p3_w5">Курю</string>
+    <string name="p3_w6">Чищу зубы раз в день или реже</string>
+    <string name="p3_w3">Люблю сладкое</string>
+    <string name="p3_w4">Ношу брикеты</string>
+    <string name="p3_w1">После чистки зубов  быстро образуется зубной налет
+</string>
+    <string name="p3_q2">Вопрос 2. Пожалуйста, выберите Ваш обычный способ жизни (все, что подходит) ?</string>
+    <string name="p4_q3">Вопрос 3. Как часто Вы посещаете стоматолога?</string>
+    <string name="p3_w2">Часто употребляю чай/кофе</string>
+    <string name="p4_w2">Посещаю стоматолога реже, чем раз в полгода</string>
+    <string name="p4_w3">Не посещаю стоматолога</string>
+    <string name="p4_w1">Посещаю стоматолога раз в полгода и чаще</string>
+<string name="size_btn_txt">6pt</string>
+    <string name="size_question">10pt</string>
+    <string name="size_sbm">6pt</string>
+    <string name="p1_exit">Выход</string>
+    <string name="p1_back">Назад</string>
+    <string name="p1_details">Дополнительно</string>
+</resources>

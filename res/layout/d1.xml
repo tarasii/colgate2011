@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent" android:background="@color/white">
+    <ImageView android:layout_height="wrap_content" android:src="@drawable/colgate_prof_d" android:layout_width="wrap_content" android:id="@+id/imageView1_d1"></ImageView>
+    <LinearLayout android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/linearLayout1" android:gravity="bottom" android:layout_weight="1">
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/p1_back" android:width="100pt" android:background="@drawable/full_red_button" android:textColor="@color/white" android:textStyle="bold" android:id="@+id/button_p12_bk"></Button>
+        <TextView android:id="@+id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1"></TextView>
+        <Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:width="100pt" android:background="@drawable/full_red_button" android:textStyle="bold" android:textColor="@color/white" android:id="@+id/button_p12_det" android:text="@string/p1_exit"></Button>
+    </LinearLayout>
+    
+</LinearLayout>
